@@ -1,8 +1,8 @@
-# 🚴 Explainability of Machine Learning Models
+#  Explainability of Machine Learning Models
 ## Comparing SHAP and Permutation Feature Importance on Bike Sharing Demand Prediction
 
 
-## 📋 Project Overview
+##  Project Overview
 
 This project explores **explainability techniques** for machine learning models predicting hourly bike-sharing demand. The main goal is to compare two popular explainability methods:
 
@@ -69,7 +69,7 @@ Model performance varies slightly across groups but remains production-ready:
 **Conclusion:** Model is **fair enough for production** - minor variations exist but do not indicate problematic bias.
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 **Core ML Stack:**
 - Python 3.10+
@@ -103,7 +103,7 @@ Model performance varies slightly across groups but remains production-ready:
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### **1. Feature Engineering**
 
@@ -169,7 +169,7 @@ subsample=0.8, colsample_bytree=0.8
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 ### **1. Temporal Features Dominate**
 
@@ -228,7 +228,7 @@ subsample=0.8, colsample_bytree=0.8
 
 ---
 
-## 🚀 Reproducibility
+##  Reproducibility
 
 ### **Requirements**
 
@@ -253,7 +253,7 @@ pip install pandas numpy scikit-learn xgboost shap matplotlib seaborn
 
 ---
 
-## 🎓 Educational Context
+##  Educational Context
 
 This project was developed for coursework focused on **Explainable AI (XAI)**. 
 
@@ -273,7 +273,7 @@ This project was developed for coursework focused on **Explainable AI (XAI)**.
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 **Potential improvements:**
 
@@ -299,13 +299,13 @@ This project was developed for coursework focused on **Explainable AI (XAI)**.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Dora Šakić**  
 
 ---
 
-## 📄 License
+##  License
 
 This project is for **educational purposes**. Dataset license follows Kaggle terms. Code is available for learning and non-commercial use.
 
